@@ -32,6 +32,12 @@ To help quantify technical debt, we have identified five key parameters.
 
 Clone the repo https://github.com/Ganesh-P03/SE_tool_team5
 This consists of two folders debt-detective(frontend),backend
+## Application Workflow and Demo Link
+<p>
+<h3>Workflow</h3>
+<img src="Images/se_tool.png">
+<a href="https://drive.google.com/drive/folders/1WpXMCYlj5d5_8FICxHY0pPufr7hZ7Mrq">Video Demo Link</a>
+</p>
 
 **Frontend:**
 
